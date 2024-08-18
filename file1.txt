@@ -1,5 +1,9 @@
-hola mundo
-adios mundo
+cambios de desarrollo
+a = hola mundo
+b = adios mundo
+
+print a
+print b
 
 añadiendo mas texto
 Ariadna
